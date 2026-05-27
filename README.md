@@ -19,4 +19,5 @@ Fun Facts:
 📍 Based in Pune, Maharashtra
 🎓 B.Tech IT @ Bharti Vidyapeeth College of Engineering, Pune
 🌍 Open to Data Analyst roles & internships
-📧 chaturvedishubh20@gmail.com 💼 LinkedIn
+📧 chaturvedishubh20@gmail.com 
+💼 LinkedIn linkedin.com/in/shubh-chaturvedi-48b02537a
